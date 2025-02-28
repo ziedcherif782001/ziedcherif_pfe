@@ -1,0 +1,22 @@
+{
+  "sensor": "electricity",
+  "unit": "kWh",
+  "data": [
+    {
+      "timestamp": "2025-02-28T10:32:00",
+      "value": 3.7
+    },
+    {
+      "timestamp": "2025-02-28T10:33:00",
+      "value": 0.9
+    },
+    {
+      "timestamp": "2025-02-28T10:34:00",
+      "value": 2.9
+    },
+    {
+      "timestamp": "2025-02-28T10:34:00",
+      "value": 3.8
+    }
+  ]
+}

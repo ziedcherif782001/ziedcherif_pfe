@@ -1,0 +1,27 @@
+{
+  "sensor_id": "TEMP_001",
+  "location": "Tunis, Tunisia",
+  "unit": "\u00b0C",
+  "data": [
+    {
+      "timestamp": "2025-02-28T10:32:00",
+      "value": 26.7
+    },
+    {
+      "timestamp": "2025-02-28T10:33:00",
+      "value": 29.6
+    },
+    {
+      "timestamp": "2025-02-28T10:33:00",
+      "value": 32.5
+    },
+    {
+      "timestamp": "2025-02-28T10:34:00",
+      "value": 33.9
+    },
+    {
+      "timestamp": "2025-02-28T10:34:00",
+      "value": 15.6
+    }
+  ]
+}

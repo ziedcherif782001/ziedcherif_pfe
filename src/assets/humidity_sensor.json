@@ -1,0 +1,22 @@
+{
+  "sensor": "humidity",
+  "unit": "%",
+  "data": [
+    {
+      "timestamp": "2025-02-28T10:32:00",
+      "value": 55.1
+    },
+    {
+      "timestamp": "2025-02-28T10:33:00",
+      "value": 48.7
+    },
+    {
+      "timestamp": "2025-02-28T10:33:00",
+      "value": 77.5
+    },
+    {
+      "timestamp": "2025-02-28T10:34:00",
+      "value": 50.1
+    }
+  ]
+}
